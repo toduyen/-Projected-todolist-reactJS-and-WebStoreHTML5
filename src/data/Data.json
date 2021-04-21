@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name": "Phan kim tuan",
+        "phone": "0325235",
+        "quyen": "1"
+    },
+    {
+        "id":2,
+        "name": "Phan kim tuan",
+        "phone": "0325235",
+        "quyen": "2"
+    },
+    {
+        "id":3,
+        "name": "Phan kim tuan 3",
+        "phone": "0325235",
+        "quyen": "3"
+    }
+]
